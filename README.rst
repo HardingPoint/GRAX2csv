@@ -2,10 +2,10 @@
 es2csv
 ======
 
-A CLI tool for exporting data from Elasticsearch into a CSV file
+A CLI tool for exporting data from GRAX into a CSV file
 ----------------------------------------------------------------
 
-Command line utility, written in Python, for querying Elasticsearch in Lucene query syntax or Query DSL syntax and exporting result as documents into a CSV file. This tool can query bulk docs in multiple indices and get only selected fields, this reduces query execution time.
+Command line utility, written in Python, for querying GRAX in Lucene query syntax or Query DSL syntax and exporting result as documents into a CSV file. This tool can query bulk docs in multiple indices and get only selected fields, this reduces query execution time.
 
 Quick Look Demo
 ---------------
